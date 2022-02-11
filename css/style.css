@@ -1,0 +1,53 @@
+
+
+h1 {
+    color: red;
+}
+h2 {
+    color:darkred
+}
+h3 {
+    color: orange;
+}
+
+.date {
+    color: green;
+}
+
+#title-1 {
+    color: darkblue;
+}
+.section.add {
+    color: lightskyblue;
+}
+.list span {
+    color: deeppink;
+}
+.instruction > span {
+    color: blue;
+}
+
+.description ol {
+    color: green;
+}
+
+.nav-link,
+.follow-link {
+    color: palevioletred;
+}
+
+.instruction .list {
+    color: brown;
+}
+
+.list-item + li {
+    color: darkorchid;
+}
+
+.next-text ~ p {
+    color: darkslategray;
+}
+
+[class*="-text"] {
+    color: limegreen;
+}
